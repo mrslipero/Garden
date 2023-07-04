@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GardenPlantStore
+comment1.params=
+comment1.target=GardenPlantStore()
+comment2.params=
+comment2.target=java.util.ArrayList\ getAllPlants()
+comment3.params=plant
+comment3.target=void\ addPlant(GardenPlant)
+comment4.params=name
+comment4.target=GardenPlant\ searchPlantByName(java.lang.String)
+comment5.params=name
+comment5.target=boolean\ sellPlant(java.lang.String)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=planta\ cliente\ cantidad
+comment1.target=Venta(Planta,\ Cliente,\ int)
+comment2.params=
+comment2.target=double\ calcularTotal()
+numComments=3
